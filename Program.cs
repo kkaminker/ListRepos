@@ -7,7 +7,7 @@ using System.Net.Http;
 using System.Net.Http.Headers;
 using System.Collections.Generic;
 using System.Runtime.Serialization.Json;
-
+//help from msdn documentation
 namespace ConsoleApplication1
 {
     class Program
